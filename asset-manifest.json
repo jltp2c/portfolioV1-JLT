@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21022a69.css",
+    "main.js": "/static/js/main.bd4ddd46.js",
+    "static/media/project2.gif": "/static/media/project2.5ad8c1a49c2f29e3cca5.gif",
+    "static/media/p7.gif": "/static/media/p7.6fe78768ba53fad7ad64.gif",
+    "static/media/p5.gif": "/static/media/p5.36b41e8a3f1f9084860b.gif",
+    "static/media/project1.gif": "/static/media/project1.b426a24570864dd31502.gif",
+    "static/media/p6.gif": "/static/media/p6.5c834755578cd702e499.gif",
+    "static/media/project2nogif.png": "/static/media/project2nogif.f0cd0c0be50a9a966df8.png",
+    "static/media/p3.gif": "/static/media/p3.354c8c62910dd7998968.gif",
+    "static/media/portrait.jpg": "/static/media/portrait.0b6f940310088d66027d.jpg",
+    "static/media/p8.gif": "/static/media/p8.579f6f9aaaeea734039f.gif",
+    "static/media/CV TAN Jean-Luc FR.pdf": "/static/media/CV TAN Jean-Luc FR.377f09a766404a14a3d5.pdf",
+    "static/media/CV TAN Jean-Luc EN.pdf": "/static/media/CV TAN Jean-Luc EN.f0a9450b108769b0f68d.pdf",
+    "static/media/p4.gif": "/static/media/p4.9e3b67f0e6b50e5f5785.gif",
+    "static/media/project1nogif.png": "/static/media/project1nogif.a2f85f7251c0c426f5be.png",
+    "static/media/github-orange.png": "/static/media/github-orange.4ffc5faf72ccd0f4d099.png",
+    "static/media/waving-hand.png": "/static/media/waving-hand.8890d2068a31bf34bd1b.png",
+    "static/media/technology.png": "/static/media/technology.088410b8a90d2096c794.png",
+    "static/media/github.png": "/static/media/github.28138db23c48cabc06a0.png",
+    "static/media/linkedin-orange.png": "/static/media/linkedin-orange.a004468c8005d558752e.png",
+    "index.html": "/index.html",
+    "main.21022a69.css.map": "/static/css/main.21022a69.css.map",
+    "main.bd4ddd46.js.map": "/static/js/main.bd4ddd46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21022a69.css",
+    "static/js/main.bd4ddd46.js"
+  ]
+}
