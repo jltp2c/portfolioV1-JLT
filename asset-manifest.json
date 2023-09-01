@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3910d8d.css",
-    "main.js": "/static/js/main.b316e77d.js",
+    "main.css": "/static/css/main.bf52667e.css",
+    "main.js": "/static/js/main.a6bd254c.js",
     "static/media/UnSplashWeb.gif": "/static/media/UnSplashWeb.ac9bf96168b3d4208fd3.gif",
     "static/media/laPtiteCuisineGif.gif": "/static/media/laPtiteCuisineGif.3868f8599ca8b0eadcbd.gif",
     "static/media/mobileHeat.gif": "/static/media/mobileHeat.4ed6129426807b81587a.gif",
@@ -13,7 +13,7 @@
     "static/media/reactMovieApp.gif": "/static/media/reactMovieApp.94ec8263212e858e730f.gif",
     "static/media/portrait.jpg": "/static/media/portrait.0b6f940310088d66027d.jpg",
     "static/media/tekko.png": "/static/media/tekko.5660d525d29d9fc79132.png",
-    "static/media/CV TAN Jean-Luc FR.pdf": "/static/media/CV TAN Jean-Luc FR.793dda2b834a6abd5de6.pdf",
+    "static/media/CV TAN Jean-Luc FR.pdf": "/static/media/CV TAN Jean-Luc FR.2efd92d79ea8a8711b17.pdf",
     "static/media/CV TAN Jean-Luc EN.pdf": "/static/media/CV TAN Jean-Luc EN.a5977f95010bbcd59656.pdf",
     "static/media/p4.gif": "/static/media/p4.9e3b67f0e6b50e5f5785.gif",
     "static/media/mobileHeat.png": "/static/media/mobileHeat.c3703c15abe37f884795.png",
@@ -23,11 +23,11 @@
     "static/media/github.png": "/static/media/github.28138db23c48cabc06a0.png",
     "static/media/linkedin-orange.png": "/static/media/linkedin-orange.a004468c8005d558752e.png",
     "index.html": "/index.html",
-    "main.c3910d8d.css.map": "/static/css/main.c3910d8d.css.map",
-    "main.b316e77d.js.map": "/static/js/main.b316e77d.js.map"
+    "main.bf52667e.css.map": "/static/css/main.bf52667e.css.map",
+    "main.a6bd254c.js.map": "/static/js/main.a6bd254c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3910d8d.css",
-    "static/js/main.b316e77d.js"
+    "static/css/main.bf52667e.css",
+    "static/js/main.a6bd254c.js"
   ]
 }
