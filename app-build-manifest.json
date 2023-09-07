@@ -1,0 +1,38 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack-6d6e0adbaf811cd8.js",
+      "static/chunks/fd9d1056-c9eb6f688b3961a6.js",
+      "static/chunks/596-1dbb1f9908fe1b13.js",
+      "static/chunks/main-app-72871b7175b0e650.js",
+      "static/css/017e93972f7e1299.css",
+      "static/chunks/app/layout-6ab69b5decaeead1.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-6d6e0adbaf811cd8.js",
+      "static/chunks/fd9d1056-c9eb6f688b3961a6.js",
+      "static/chunks/596-1dbb1f9908fe1b13.js",
+      "static/chunks/main-app-72871b7175b0e650.js",
+      "static/css/b436e34398bd1d23.css",
+      "static/chunks/app/page-b35298b40f6a60a4.js"
+    ],
+    "/myportfolio/page": [
+      "static/chunks/webpack-6d6e0adbaf811cd8.js",
+      "static/chunks/fd9d1056-c9eb6f688b3961a6.js",
+      "static/chunks/596-1dbb1f9908fe1b13.js",
+      "static/chunks/main-app-72871b7175b0e650.js",
+      "static/chunks/165-9de6d89424d9c874.js",
+      "static/css/a868f2bdbfff5bbe.css",
+      "static/chunks/app/myportfolio/page-1e39b2865dc56fe5.js"
+    ],
+    "/myportfolio/layout": [
+      "static/chunks/webpack-6d6e0adbaf811cd8.js",
+      "static/chunks/fd9d1056-c9eb6f688b3961a6.js",
+      "static/chunks/596-1dbb1f9908fe1b13.js",
+      "static/chunks/main-app-72871b7175b0e650.js",
+      "static/chunks/970-c1c5ffc968ea6d5b.js",
+      "static/css/3a2fbb2b2c5a1d1c.css",
+      "static/chunks/app/myportfolio/layout-56e471e2f38f6ed3.js"
+    ]
+  }
+}

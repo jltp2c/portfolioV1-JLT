@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/jltmac/Documents/Codage/PortFolio/portfoliov2/app/layout":["static/media/a5b3f9638b3ccb53-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
